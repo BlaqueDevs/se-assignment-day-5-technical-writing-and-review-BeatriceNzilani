@@ -21,12 +21,12 @@ Include visuals like screenshots or diagrams.
 
 Focus on advanced features and technical details.
 
-Use industry-specific terminology.
+Use industry specific terminology.
 
 Skip basic explanations unless necessary.
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
- Surveys or feedback – Ask users what they know.
- Check FAQs and support questions – See what confuses users the most.
+ Surveys or feedback . Ask users what they know.
+ Check FAQs and support questions . See what confuses users the most.
  Start with simple explanations and introduce details gradually.
 
 
@@ -78,10 +78,10 @@ Use Consistent Formatting: Maintain the same style for all headings.
 Keep Them Short: Aim for concise, actionable titles.
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
- Product name and purpose – What it is and why it’s useful.
- Key features – What makes it special.
- Who it's for – The intended users that is the arget audience.
- How to get started – A quick install or setup guide.
+ Product name and purpose ,What it is and why it’s useful.
+ Key features,  What makes it special.
+ Who it's for , The intended users that is the arget audience.
+ How to get started , A quick install or setup guide.
 ## 12. How can you succinctly convey the purpose and key features of a product?
 Use Simple Language: Avoid jargon and keep it concise.
 
